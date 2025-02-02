@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.RethinkYourDrink" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="colorPrimary">#3F51B5</item>
+        <item name="colorPrimaryVariant">#1F2C75</item>
+        <item name="colorOnPrimary">#FFEB3B</item>
+
+        <item name="colorSecondary">#009688</item>
+        <item name="colorSecondaryVariant">#00544C</item>
+        <item name="colorOnSecondary">#FF963B</item>
+
+        <item name="android:windowBackground">#A5DCF4</item>
+
+        <item name="textAllCaps">false</item>
+        <item name="android:textAllCaps">false</item>
+
+    </style>
+
+    <style name="Theme.RethinkYourDrink" parent="Base.Theme.RethinkYourDrink" />
+</resources>

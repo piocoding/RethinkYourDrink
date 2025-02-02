@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#3F7CB5</color>
+    <color name="darkblue">#1F2C75</color>
+    <color name="purple">#603FB5</color>
+    <color name="green">#3CA66D</color>
+    <color name="SVbackground">#D5F2FF</color>
+</resources>
